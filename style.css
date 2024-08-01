@@ -1,0 +1,39 @@
+.nav-link {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: var(--black, #000000);
+}
+ .link-2 {
+  margin: 10px 32.3px 13px 0;
+  display: inline-block;
+}
+
+ .logo {
+  background: url('./images/logo.png') 50% / cover no-repeat;
+  width: 53.3px;
+  height: 80px;
+}
+ .nav-link-dropdown {
+  border-radius: 4px;
+  background: var(--foundation-primaryblue-100, #C5E2FF);
+  display: flex;
+  padding: 8px 16.5px 8px 16px;
+  box-sizing: border-box;
+}
+ .navbar {
+  box-shadow: 0px 16px 16px 0px rgba(0, 20, 38, 0.12);
+  background: #ECF5FF;
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px 112px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
+
